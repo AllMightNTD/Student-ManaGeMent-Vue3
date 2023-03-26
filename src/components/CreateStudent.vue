@@ -98,7 +98,8 @@ export default {
                 date : "",
                 gender:"",
                 NameDepartment:"",
-                CodeDepartment:""
+                CodeDepartment:"",
+                checked:false
             }
         }
     },
